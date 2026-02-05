@@ -22,7 +22,7 @@ https://www.magiceye.com/ \
 https://www.magiceye.com/client-samples/ \
 https://www.magiceye.com/stock-images/
 
-## Eyetricks 3D Stereograms | all | original size
+## Eyetricks 3D Stereograms 💚 all | original size
 
 https://www.facebook.com/Eyetricks3DStereograms/photos
 https://www.eyetricks-3d-stereograms.com/kinds_of_stereograms.html kinds of stereograms
@@ -44,6 +44,15 @@ https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads
 ## Misc links
 
 http://www.colorstereo.com/links.ss/links.htm
+
+## Misc compilations 💚
+
+2017-11-16 @Expat Lady in Saudi - 10 Hidden Images Magic eye Magic Eye Pictures https://youtu.be/hBCwJZABkGs \
+2021-03-23 @Mosaic Creator - 50 amazing 3D Stereograms Magic Eye https://youtu.be/aiQsyyyqtlA \
+2021-05-06 @Jinete Espiritual Tarot - ¿Cómo ABRIR Tercer Ojo? Utiliza esta técnica con estereogramas y música relajante https://youtu.be/mGHLszTZ2-s \
+2021-09-06 @Dean Odell, Magician & Mind Reader - Magic Eye Illusions with Answers https://youtu.be/C401Y7KemGQ \
+2022-05-09 @voka. by - Magic Eye Pictures / 3D Stereograms for Eye Gymnastics / 3d video https://youtu.be/164eKhpKpB8 \
+2022-11-28 @SOMEDIA3D - STEREOGRAMS #1 ( MAGIC EYE PICTURES WITH ANSWERS) WITH HOW TO SEE MAGIC EYE TUTORIAL #magic_eye https://youtu.be/SZNml8hCZfI
 
 ---
 ---
