@@ -46,7 +46,7 @@ https://www.reddit.com/r/Chromostereopsis/
 `2020-07-07` https://www.popularmechanics.com/science/a33224851/how-many-circles-viral-coffer-illusion/ \
 `2024-11-11` https://www.reddit.com/r/illusionporn/comments/1gomqxi/animated_coffer_illusion/
 
-## `1415` [Perspective](https://en.wikipedia.org/wiki/Perspective%5f(graphical)) 💚
+## `1415` [Perspective](https://en.wikipedia.org/wiki/Perspective_(graphical)) 💚
 
 https://en.wikipedia.org/wiki/Filippo_Brunelleschi#Linear_perspective \
 `1435` https://en.wikipedia.org/wiki/De_pictura
@@ -55,6 +55,8 @@ https://en.wikipedia.org/wiki/Filippo_Brunelleschi#Linear_perspective \
 
 > depth is conveyed in two-dimensional color images, usually of red–blue or red–green colors
 The majority of people see red in front of blue, while 10-20% see blue in front of red.
+
+`2024-11-23` https://www.behance.net/gallery/213143171/Chromostereopsis
 
 ## `1823` [Moiré pattern](https://en.wikipedia.org/wiki/Moiré_pattern) 💚
 
@@ -121,22 +123,21 @@ first discover in 1894
 
 = https://fr.wikipedia.org/wiki/La_Robe_(photo)
 
-https://fr.wikipedia.org/wiki/La_Robe%5f(photo)#/media/Fichier:Wikipe-tan_wearing_The_Dress_reduced.svg
+https://fr.wikipedia.org/wiki/La_Robe_(photo)#/media/Fichier:Wikipe-tan_wearing_The_Dress_reduced.svg
 
-## `2017` https://en.wikipedia.org/wiki/Kokichi_Sugihara
+## `2017` [Kokichi Sugihara](https://en.wikipedia.org/wiki/Kokichi_Sugihara)
 
-2016-06-29 Ambiguous Cylinder Illusion https://youtu.be/oWfFco7K9v8
-2017-04-13 @Meiji University (Tokyo,Japan) Optical Illusionist by SUGIHARA Kokichi https://youtu.be/qZGDXoWd_M8
-2017-10-06 @Hiroshi Uchinaka - new illusion https://youtu.be/kdBmKoE5zPk
-2018-04-30 @physicsfun - This arrow can't point left https://instagr.am/p/BiMxAXalARt | https://youtu.be/vmF8hcoQNkQ
+2016-06-29 Ambiguous Cylinder Illusion https://youtu.be/oWfFco7K9v8 \
+2017-04-13 @Meiji University (Tokyo,Japan) Optical Illusionist by SUGIHARA Kokichi https://youtu.be/qZGDXoWd_M8 \
+2017-10-06 @Hiroshi Uchinaka - new illusion https://youtu.be/kdBmKoE5zPk \
+2018-04-30 @physicsfun - This arrow can't point left https://instagr.am/p/BiMxAXalARt = https://youtu.be/vmF8hcoQNkQ
 
-## `2024-11-23` https://www.behance.net/gallery/213143171/Chromostereopsis
+## `2025` Effect of lines on silhouette (same size)
 
-## `2025-09-27` https://www.instagram.com/p/DPHZFbMkkCm/
+2025-09-27 https://www.instagram.com/p/DPHZFbMkkCm/
+= 2025-09-28 https://x.com/Sarahhuniverse/status/1972322157628973530
 
-> = 2025-09-28 https://x.com/Sarahhuniverse/status/1972322157628973530
-
-Fashion is full of optical illusions = Effect of lines on silhouette (same size)
+Fashion is full of optical illusions
 
 ---
 ---
@@ -385,7 +386,7 @@ https://www.kssgalerie.net/impossible-architecture-23
 1961 https://arthive.com/sl/escher/works/200416~Waterfall
 https://im-possible.info/english/art/escher/waterfall.html
 https://im-possible.info/english/art/rendered_escher/led_waterfall.html
-2016-03-25 https://www.behance.net/gallery/35404291/Graduation-works-%5fMy-name-is-Escher
+2016-03-25 https://www.behance.net/gallery/35404291/Graduation-works-_My-name-is-Escher
 
 ---
 ---
@@ -434,7 +435,7 @@ older people whose ability to hear higher frequencies is more likely to have deg
 
 ## zzz📦ARCHIVED
 
-https://en.wikipedia.org/wiki/Beat%5f(acoustics)#Binaural_beats
+https://en.wikipedia.org/wiki/Beat_(acoustics)#Binaural_beats
 https://en.wikipedia.org/wiki/Constant_spectrum_melody
 https://en.wikipedia.org/wiki/Franssen_effect
 https://en.wikipedia.org/wiki/Glissando_illusion
