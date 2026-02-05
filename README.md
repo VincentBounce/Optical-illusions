@@ -46,10 +46,10 @@ https://www.reddit.com/r/Chromostereopsis/
 `2020-07-07` https://www.popularmechanics.com/science/a33224851/how-many-circles-viral-coffer-illusion/ \
 `2024-11-11` https://www.reddit.com/r/illusionporn/comments/1gomqxi/animated_coffer_illusion/
 
-## `1415` https://en.wikipedia.org/wiki/Perspective%5f(graphical) 💚
+## `1415` [Perspective](https://en.wikipedia.org/wiki/Perspective%5f(graphical)) 💚
 
-https://en.wikipedia.org/wiki/Filippo_Brunelleschi#Linear_perspective
-1435 https://en.wikipedia.org/wiki/De_pictura
+https://en.wikipedia.org/wiki/Filippo_Brunelleschi#Linear_perspective \
+`1435` https://en.wikipedia.org/wiki/De_pictura
 
 ## `18xx` https://en.wikipedia.org/wiki/Chromostereopsis chromostereopic illusion
 
