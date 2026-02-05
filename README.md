@@ -69,20 +69,21 @@ The majority of people see red in front of blue, while 10-20% see blue in front 
 ## `1888` [My Wife and My Mother-in-Law](https://en.wikipedia.org/wiki/My_Wife_and_My_Mother-in-Law) 💚
 
 https://www.flickr.com/photos/132048422@N08/23770649176 \
-1915 https://en.wikipedia.org/wiki/My_Wife_and_My_Mother-in-Law#/media/File:My_Wife_and_My_Mother-in-Law.jpg
+`1915` https://en.wikipedia.org/wiki/My_Wife_and_My_Mother-in-Law#/media/File:My_Wife_and_My_Mother-in-Law.jpg
 
-1946 https://commons.wikimedia.org/wiki/File:Ambigram_¡OHO!_and_reversible_figure_drawn_by_Rex_Whistler,_1946,_up_and_down.jpg
+`1946` https://commons.wikimedia.org/wiki/File:Ambigram_¡OHO!_and_reversible_figure_drawn_by_Rex_Whistler,_1946,_up_and_down.jpg
 
 ## `1889` [Müller-Lyer illusion](https://en.wikipedia.org/wiki/Müller-Lyer_illusion)
 
 **https://michaelbach.de/ot/sze-muelue/** \
-2019-01-08 https://web.archive.org/web/20200812030827/https://prosetech.com/blue-dress-is-nothing/ \
-2024-01-28 https://www.reddit.com/r/opticalillusions/comments/1acsv6q/the_color_of_the_center_square_of_these_2_cubes/
+`2019-01-08` https://web.archive.org/web/20200812030827/https://prosetech.com/blue-dress-is-nothing/ \
+`2024-01-28` https://www.reddit.com/r/opticalillusions/comments/1acsv6q/the_color_of_the_center_square_of_these_2_cubes/
 
 ## `1896` [Vanishing puzzle](https://en.wikipedia.org/wiki/Vanishing_puzzle)
 
 https://upload.wikimedia.org/wikipedia/commons/b/b6/The_disappearing_bicyclist_vanishing_puzzle.svg \
-by 1841-01-30 to 1911-04-11 https://en.wikipedia.org/wiki/Sam_Loyd
+
+by `1841-01-30` to `1911-04-11` https://en.wikipedia.org/wiki/Sam_Loyd
 
 ## `1908` [Fraser spiral illusion](https://en.wikipedia.org/wiki/Fraser_spiral_illusion)
 
@@ -92,15 +93,15 @@ vision multi-focale, portrait peint de plusieurs points de vue
 
 ## `1946` [Ames room](https://en.wikipedia.org/wiki/Ames_room)
 
-distorted room to change human size
-
 = https://fr.wikipedia.org/wiki/Chambre_d'Ames
 
-2025-10-21 https://x.com/Rainmaker1973/status/1980620083509752024
+> distorted room to change human size
+
+`2025-10-21` https://x.com/Rainmaker1973/status/1980620083509752024
 
 ## `1953` [Missing square puzzle](https://en.wikipedia.org/wiki/Missing_square_puzzle)
 
-https://en.wikipedia.org/wiki/Missing_square_puzzle#/media/File:Missing_Square_Animation.gif
+https://en.wikipedia.org/wiki/Missing_square_puzzle#/media/File:Missing_Square_Animation.gif \
 https://en.wikipedia.org/wiki/File:Missing_square_edit.gif variant
 
 ## `1964` [Impossible trident](https://en.wikipedia.org/wiki/Impossible_trident)
@@ -127,15 +128,15 @@ https://fr.wikipedia.org/wiki/La_Robe_(photo)#/media/Fichier:Wikipe-tan_wearing_
 
 ## `2017` [Kokichi Sugihara](https://en.wikipedia.org/wiki/Kokichi_Sugihara)
 
-2016-06-29 Ambiguous Cylinder Illusion https://youtu.be/oWfFco7K9v8 \
-2017-04-13 @Meiji University (Tokyo,Japan) Optical Illusionist by SUGIHARA Kokichi https://youtu.be/qZGDXoWd_M8 \
-2017-10-06 @Hiroshi Uchinaka - new illusion https://youtu.be/kdBmKoE5zPk \
-2018-04-30 @physicsfun - This arrow can't point left https://instagr.am/p/BiMxAXalARt = https://youtu.be/vmF8hcoQNkQ
+`2016-06-29` Ambiguous Cylinder Illusion https://youtu.be/oWfFco7K9v8 \
+`2017-04-13` @Meiji University (Tokyo,Japan) Optical Illusionist by SUGIHARA Kokichi https://youtu.be/qZGDXoWd_M8 \
+`2017-10-06` @Hiroshi Uchinaka - new illusion https://youtu.be/kdBmKoE5zPk \
+`2018-04-30` @physicsfun - This arrow can't point left https://instagr.am/p/BiMxAXalARt = https://youtu.be/vmF8hcoQNkQ
 
 ## `2025` Effect of lines on silhouette (same size)
 
-2025-09-27 https://www.instagram.com/p/DPHZFbMkkCm/
-= 2025-09-28 https://x.com/Sarahhuniverse/status/1972322157628973530
+`2025-09-27` https://www.instagram.com/p/DPHZFbMkkCm/ \
+= `2025-09-28` https://x.com/Sarahhuniverse/status/1972322157628973530
 
 Fashion is full of optical illusions
 
