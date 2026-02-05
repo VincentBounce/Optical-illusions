@@ -61,7 +61,8 @@ https://www.facebook.com/photo/?fbid=4699611533466869&set=pb.100035369420325.-22
 
 **https://hidden-3d.com/index.php?id=gallery open image in new tab to DL | images 1024x768 original 💚 \
 = https://www.deviantart.com/3dimka/gallery images identical to https://hidden-3d.com \
-= https://www.instagram.com/3dstereogram/ upscaled images 1080x810**
+= https://www.instagram.com/3dstereogram/ upscaled images 1080x810 \
+https://www.youtube.com/@3dimka/videos**
 
 > https://hidden-3d.com/index.php?id=gallery \
 👤3Dimka \
@@ -72,7 +73,7 @@ https://www.facebook.com/photo/?fbid=4699611533466869&set=pb.100035369420325.-22
 **http://www.colorstereo.com/main-directory.html original size with ads \
 https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads**
 
-👤https://www.flickr.com/mail/write/?to=87969659@N00 | ~~`gene_levine@colorstereo.com` zzz🪦DEAD~~
+> 👤https://www.flickr.com/mail/write/?to=87969659@N00 ~~`gene_levine@colorstereo.com` zzz🪦DEAD~~
 
 ## Compilations 💚 divergent
 
@@ -96,8 +97,6 @@ https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads**
 ---
 
 # 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏃‍♂️Animations
-
-https://www.youtube.com/@3dimka/videos
 
 2006-11-06 @3dimka - 3D Chess Stereogram https://youtu.be/wdSYM3-3XFE
 
@@ -156,12 +155,11 @@ Windows OK | macOS only 2018 Intel versions
 ---
 ---
 
-# 🌀Optical illusions > ℹ️Info
+# 🌀[Optical illusions](https://en.wikipedia.org/wiki/Optical_illusion) > ℹ️Info
 
 ## Sites 💚
 
 ```
-https://en.wikipedia.org/wiki/Optical_illusion
 https://en.wikipedia.org/wiki/List_of_optical_illusions 💚
 https://optical.toys/ 💚
 https://michaelbach.de/ot/ 💚
@@ -302,27 +300,43 @@ foreground and background of an image to be in focus
 
 2026-02-05 https://x.com/jagarikin/status/2019196931822817344
 
+## Impossible motion magnet-like slopes
+
+https://youtu.be/hAXm0dIuyug
+
+## Dual Axis Illusion
+
+https://youtu.be/HC0GGkNZPgs
+
+## Motion Integration Unleashed New Tricks for an Old Dog
+
+https://youtu.be/Jri0del_6t4
+
+## Ambiguous Garage Roof 💚
+
+https://youtu.be/KtA6u1HIqbg
+
+## Skye Blue Cafe Wall Illusion
+
+https://youtu.be/d8Se0WRFV-8
+
+## 3D Graffiti
+
+https://youtu.be/aglCTch4pmM
+
+## Triply Ambiguous Object
+
+https://youtu.be/ajqzpwKuDts
+
+## Partial Disappearance Illusion
+
+https://youtu.be/PeKD-zzzL_w
+
 ---
 ---
 ---
 
 # 🌀Optical illusions > 🎞️On YT
-
-Impossible motion: magnet-like slopes https://youtu.be/hAXm0dIuyug
-
-Dual Axis Illusion https://youtu.be/HC0GGkNZPgs
-
-Motion Integration Unleashed New Tricks for an Old Dog https://youtu.be/Jri0del_6t4
-
-Ambiguous Garage Roof 💚 https://youtu.be/KtA6u1HIqbg
-
-Skye Blue Cafe Wall Illusion https://youtu.be/d8Se0WRFV-8
-
-3D Graffiti https://youtu.be/aglCTch4pmM
-
-Triply Ambiguous Object https://youtu.be/ajqzpwKuDts
-
-Partial Disappearance Illusion https://youtu.be/PeKD-zzzL_w
 
 2008-10-24 @brussup Animated Optical Illusion! https://youtu.be/9X59yfCNyRQ
 
@@ -359,7 +373,7 @@ Partial Disappearance Illusion https://youtu.be/PeKD-zzzL_w
 ---
 ---
 
-# 🆘Ambigrams 💚
+# 🌀Optical illusions > 🆘Ambigrams 💚
 
 **`1983` https://en.wikipedia.org/wiki/Ambigram = https://fr.wikipedia.org/wiki/Ambigramme**
 
@@ -453,7 +467,7 @@ https://fr.wikipedia.org/wiki/Ambigramme#/media/Fichier:Tessellation_Pipi_Caca_-
 ---
 ---
 
-# 💠Holograms
+# 💠3D
 
 ## 👓Stereoscopy
 
@@ -485,7 +499,7 @@ https://www.amazon.in/Sharp-LCD-Monitor-25MS-LL1513D/dp/B0002YY7J4
 
 2015 https://www.amazon.com/Toysmith-79747-3-D-Mirascope-6-Inch/dp/B000N5T8KA
 
-## 🔮Holography | 3D holograms
+## 💠Holography | 3D holograms
 
 **1948 https://en.wikipedia.org/wiki/Holography**
 
