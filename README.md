@@ -92,7 +92,8 @@ https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads
 
 2023-12-01 @Eyetricks 3D Stereograms - The X-Files, 3D Stereograms For Cross-Eyed Viewing https://youtu.be/ZZaMGy3oDOU
 
-2024-11-04 https://upload.wikimedia.org/wikipedia/commons/0/0b/Crossed-eye_autostereogram_of_a_cube_rotating.gif
+2024-11-04 https://upload.wikimedia.org/wikipedia/commons/0/0b/Crossed-eye_autostereogram_of_a_cube_rotating.gif \
+= https://commons.wikimedia.org/wiki/File:Crossed-eye_autostereogram_of_a_cube_rotating.gif
 
 ---
 ---
