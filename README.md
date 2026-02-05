@@ -1,13 +1,3 @@
-# TO_SORT
-
-2009-11-23 @OnionMedia - Frazier Ultimate https://youtu.be/06t8TGAffNA https://en.wikipedia.org/wiki/Frazier_lens
-
-2025-10-26 https://x.com/tldraw/status/1982435625480433892
-
----
----
----
-
 # 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
 
 ## Tutorials
@@ -261,7 +251,19 @@ https://fr.wikipedia.org/wiki/La_Robe_(photo)#/media/Fichier:Wikipe-tan_wearing_
 
 Fashion is full of optical illusions
 
+## [Frazier lens](https://en.wikipedia.org/wiki/Frazier_lens)
+
+foreground and background of an image to be in focus
+
+2009-11-23 @OnionMedia - Frazier Ultimate https://youtu.be/06t8TGAffNA
+
 ## https://optical.toys/reverse-phi-effect/
+
+## Noise: moving noisy part into noisy image
+
+2025-10-26 https://x.com/tldraw/status/1982435625480433892
+
+2026-02-05 https://x.com/jagarikin/status/2019196931822817344
 
 ---
 ---
