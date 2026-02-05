@@ -38,16 +38,16 @@ http://www.colorstereo.com/links.ss/links.htm
 
 ## Magic Eye
 
-https://en.wikipedia.org/wiki/Magic_Eye
-
-https://www.magiceye.com/ \
+**https://www.magiceye.com/ \
 https://www.magiceye.com/client-samples/ \
-https://www.magiceye.com/stock-images/
+https://www.magiceye.com/stock-images/**
+
+> https://en.wikipedia.org/wiki/Magic_Eye
 
 ## Eyetricks 3D Stereograms 💚 all | original size
 
-https://www.eyetricks-3d-stereograms.com/ \
-https://www.facebook.com/Eyetricks3DStereograms/photos
+**https://www.eyetricks-3d-stereograms.com/ \
+https://www.facebook.com/Eyetricks3DStereograms/photos**
 
 https://www.eyetricks-3d-stereograms.com/kinds_of_stereograms.html kinds of stereograms
 
@@ -59,19 +59,18 @@ https://www.facebook.com/photo/?fbid=4699611533466869&set=pb.100035369420325.-22
 
 ## 3Dimka = @3dstereogram
 
-https://hidden-3d.com/index.php?id=gallery open image in new tab to DL | images 1024x768 original 💚 \
+**https://hidden-3d.com/index.php?id=gallery open image in new tab to DL | images 1024x768 original 💚 \
 = https://www.deviantart.com/3dimka/gallery images identical to https://hidden-3d.com \
-= https://www.instagram.com/3dstereogram/ upscaled images 1080x810
+= https://www.instagram.com/3dstereogram/ upscaled images 1080x810**
 
 > https://hidden-3d.com/index.php?id=gallery \
 👤3Dimka \
 👤Indasoftware
 
-
 ## Gene Levine
 
-http://www.colorstereo.com/main-directory.html original size with ads \
-https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads
+**http://www.colorstereo.com/main-directory.html original size with ads \
+https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads**
 
 👤https://www.flickr.com/mail/write/?to=87969659@N00 | ~~`gene_levine@colorstereo.com` zzz🪦DEAD~~
 
