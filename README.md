@@ -39,6 +39,24 @@ https://www.reddit.com/r/Chromostereopsis/
 ---
 ---
 
+# 👀[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
+
+## Magic Eye Tetris | playable
+
+**🎮 `2004-08-28` https://www.lutanho.net/play/magiceyetetris.html** 💚 \
+= https://www.lutanho.net/play/magiceyetetris5.html variant \
+
+> `2004-08-28` https://web.archive.org/web/20050117084056/http://www.gamedev.net:80/community/forums/topic.asp?topic_id=267042
+`2004-11-12` https://web.archive.org/web/20041112105159/http://home.t-online.de/home/lutz.tautenhahn/mageye/index.html
+
+**🎮 `2020-07-02` https://wisehackermonkey.github.io/magic-eye-tetris/** \
+= https://github.com/wisehackermonkey/magic-eye-tetris \
+by https://github.com/wisehackermonkey MX
+
+---
+---
+---
+
 # 🌀Optical illusions > 💡Main discoveries
 
 ## `ancient Greece` [Coffer illusion](https://en.wiktionary.org/wiki/coffer_illusion)
