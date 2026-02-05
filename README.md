@@ -42,7 +42,6 @@ https://www.reddit.com/r/Chromostereopsis/
 # 🌀Optical illusions > 💡Main discoveries
 
 ## `ancient Greece` Coffer illusion
-\
 **https://en.wiktionary.org/wiki/coffer_illusion**
 \
 2020-07-07 https://www.popularmechanics.com/science/a33224851/how-many-circles-viral-coffer-illusion/
