@@ -16,8 +16,8 @@ https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
 
 ## Definitions
 
-Divergent: default, most used
-Convergent = cross-view: image appears in front of you, you can touch it, you can frame it with your hands🫶.
+- Divergent: default, most used
+- Convergent = cross-view: image appears in front of you, you can touch it, you can frame it with your hands🫶.
 
 ## Magic Eye
 
