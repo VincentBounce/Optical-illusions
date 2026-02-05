@@ -10,13 +10,35 @@
 
 # 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
 
+## Stereogram Tutorial
+
+https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
+
+## Magic Eye
+
+https://en.wikipedia.org/wiki/Magic_Eye
+
+https://www.magiceye.com/
+
+## 3Dimka = @3dstereogram
+
+https://www.instagram.com/3dstereogram/ 1080x810 upscaled
+
+## Kinds of Stereograms
+
+https://www.eyetricks-3d-stereograms.com/kinds_of_stereograms.html
+
+
 ---
 ---
 ---
 
 # 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🎮Video games
 
-SIRDS = single-image random dot stereogram
+## SIRDS = single-image random dot stereogram
+
+1992-10-23 https://patents.google.com/patent/US5371627A/en \
+US5371627A - Random dot stereogram and method for making the same
 
 ## Magic Eye Tetris
 
