@@ -51,62 +51,75 @@ https://www.reddit.com/r/Chromostereopsis/
 https://en.wikipedia.org/wiki/Filippo_Brunelleschi#Linear_perspective \
 `1435` https://en.wikipedia.org/wiki/De_pictura
 
-## `18xx` https://en.wikipedia.org/wiki/Chromostereopsis chromostereopic illusion
+## `18xx` [Chromostereopsis = chromostereopic illusion](https://en.wikipedia.org/wiki/Chromostereopsis)
 
 > depth is conveyed in two-dimensional color images, usually of red–blue or red–green colors
 The majority of people see red in front of blue, while 10-20% see blue in front of red.
 
-## `1823` https://en.wikipedia.org/wiki/Moiré_pattern 💚
+## `1823` [Moiré pattern](https://en.wikipedia.org/wiki/Moiré_pattern) 💚
 
-## `1866` https://en.wikipedia.org/wiki/Pareidolia
+## `1866` [Pareidolia](https://en.wikipedia.org/wiki/Pareidolia)
 
-## `1873` https://en.wikipedia.org/wiki/Jastrow_illusion from the book 1873 *The World of Wonders*
+## `1873` [Jastrow illusion](https://en.wikipedia.org/wiki/Jastrow_illusion)
 
-## `1888` https://en.wikipedia.org/wiki/My_Wife_and_My_Mother-in-Law 💚
+> from the book 1873 *The World of Wonders*
 
-https://www.flickr.com/photos/132048422@N08/23770649176
+## `1888` [My Wife and My Mother-in-Law](https://en.wikipedia.org/wiki/My_Wife_and_My_Mother-in-Law) 💚
+
+https://www.flickr.com/photos/132048422@N08/23770649176 \
 1915 https://en.wikipedia.org/wiki/My_Wife_and_My_Mother-in-Law#/media/File:My_Wife_and_My_Mother-in-Law.jpg
 
 1946 https://commons.wikimedia.org/wiki/File:Ambigram_¡OHO!_and_reversible_figure_drawn_by_Rex_Whistler,_1946,_up_and_down.jpg
 
-## `1889` https://en.wikipedia.org/wiki/Müller-Lyer_illusion | **https://michaelbach.de/ot/sze-muelue/**
+## `1889` [Müller-Lyer illusion](https://en.wikipedia.org/wiki/Müller-Lyer_illusion)
 
-2019-01-08 https://web.archive.org/web/20200812030827/https://prosetech.com/blue-dress-is-nothing/
+**https://michaelbach.de/ot/sze-muelue/** \
+2019-01-08 https://web.archive.org/web/20200812030827/https://prosetech.com/blue-dress-is-nothing/ \
 2024-01-28 https://www.reddit.com/r/opticalillusions/comments/1acsv6q/the_color_of_the_center_square_of_these_2_cubes/
 
-## `1896` https://en.wikipedia.org/wiki/Vanishing_puzzle
+## `1896` [Vanishing puzzle](https://en.wikipedia.org/wiki/Vanishing_puzzle)
 
-https://upload.wikimedia.org/wikipedia/commons/b/b6/The_disappearing_bicyclist_vanishing_puzzle.svg
+https://upload.wikimedia.org/wikipedia/commons/b/b6/The_disappearing_bicyclist_vanishing_puzzle.svg \
 by 1841-01-30 to 1911-04-11 https://en.wikipedia.org/wiki/Sam_Loyd
 
-## `1908` https://en.wikipedia.org/wiki/Fraser_spiral_illusion
+## `1908` [Fraser spiral illusion](https://en.wikipedia.org/wiki/Fraser_spiral_illusion)
 
-## `1934` https://en.wikipedia.org/wiki/Ames_room distorted room to change human size
+## `1937` [Portrait of Dora Maar](https://en.wikipedia.org/wiki/Portrait_of_Dora_Maar)
 
-## `1937` https://en.wikipedia.org/wiki/Portrait_of_Dora_Maar | vision multi-focale, portrait peint de plusieurs points de vue
+vision multi-focale, portrait peint de plusieurs points de vue
 
-## `1946` https://en.wikipedia.org/wiki/Ames_room = https://fr.wikipedia.org/wiki/Chambre_d'Ames
+## `1946` [Ames room](https://en.wikipedia.org/wiki/Ames_room)
+
+distorted room to change human size
+
+= https://fr.wikipedia.org/wiki/Chambre_d'Ames
 
 2025-10-21 https://x.com/Rainmaker1973/status/1980620083509752024
 
-## `1953` https://en.wikipedia.org/wiki/Missing_square_puzzle
+## `1953` [Missing square puzzle](https://en.wikipedia.org/wiki/Missing_square_puzzle)
 
 https://en.wikipedia.org/wiki/Missing_square_puzzle#/media/File:Missing_Square_Animation.gif
 https://en.wikipedia.org/wiki/File:Missing_square_edit.gif variant
 
-## `1964` https://en.wikipedia.org/wiki/Impossible_trident
+## `1964` [Impossible trident](https://en.wikipedia.org/wiki/Impossible_trident)
 
-## `1979` https://en.wikipedia.org/wiki/Café_wall_illusion first discover 1894
+## `1979` [Café wall illusion](https://en.wikipedia.org/wiki/Café_wall_illusion)
 
-## `1983` https://en.wikipedia.org/wiki/Ambigram 💚
+first discover in 1894
+
+## `1983` [Ambigram](https://en.wikipedia.org/wiki/Ambigram) 💚
 
 > SUN logo | ANИA | ᗱƆᑌᑎϹᗴ
 
-## `1990` https://en.wikipedia.org/wiki/Shepard_elephant
+## `1990` [Shepard elephant](https://en.wikipedia.org/wiki/Shepard_elephant)
 
-## `1995` https://en.wikipedia.org/wiki/Checker_shadow_illusion | https://fr.wikipedia.org/wiki/Échiquier_d'Adelson
+## `1995` [Checker shadow illusion](https://en.wikipedia.org/wiki/Checker_shadow_illusion)
 
-## `2015` https://en.wikipedia.org/wiki/The_dress | https://fr.wikipedia.org/wiki/La_Robe%5f(photo)
+= https://fr.wikipedia.org/wiki/Échiquier_d'Adelson
+
+## `2015` [The dress](https://en.wikipedia.org/wiki/The_dress)
+
+= https://fr.wikipedia.org/wiki/La_Robe_(photo)
 
 https://fr.wikipedia.org/wiki/La_Robe%5f(photo)#/media/Fichier:Wikipe-tan_wearing_The_Dress_reduced.svg
 
