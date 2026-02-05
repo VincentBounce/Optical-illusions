@@ -1,5 +1,19 @@
 # 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
 
+https://hidden-3d.com/index.php?id=gallery
+👤3Dimka
+👤Indasoftware
+
+http://www.colorstereo.com/main-directory.html
+👤https://www.flickr.com/mail/write/?to=87969659@N00
+~~gene_levine@colorstereo.com 🪦~~
+
+https://www.eyetricks-3d-stereograms.com/
+👤Brad Honeycutt brad@bradhoneycutt.com
+👤Gary W. Priester
+
+https://www.magiceye.com/client-samples/
+
 ## 🎓Tutorials
 
 https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
@@ -31,6 +45,8 @@ https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
 ## Misc
 
 http://www.colorstereo.com/links.ss/links.htm
+
+**2010-09-18 https://www.reddit.com/r/MagicEye/** 💚
 
 **2012-05-10 https://www.reddit.com/r/autostereograms/** 💚
 
@@ -75,6 +91,8 @@ https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads
 ## Compilations | convergent
 
 2023-12-01 @Eyetricks 3D Stereograms - The X-Files, 3D Stereograms For Cross-Eyed Viewing https://youtu.be/ZZaMGy3oDOU
+
+2024-11-04 https://upload.wikimedia.org/wikipedia/commons/0/0b/Crossed-eye_autostereogram_of_a_cube_rotating.gif
 
 ---
 ---
