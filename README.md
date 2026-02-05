@@ -14,6 +14,11 @@
 
 https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
 
+## Definitions
+
+Divergent: default, most used
+Convergent = cross-view: image appears in front of you, you can touch it, you can frame it with your hands🫶.
+
 ## Magic Eye
 
 https://en.wikipedia.org/wiki/Magic_Eye
@@ -58,6 +63,29 @@ http://www.colorstereo.com/links.ss/links.htm
 ## Compilations | convergent
 
 2023-12-01 @Eyetricks 3D Stereograms - The X-Files, 3D Stereograms For Cross-Eyed Viewing https://youtu.be/ZZaMGy3oDOU
+
+---
+---
+---
+
+# 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏃‍♂️Animations
+
+https://www.youtube.com/@3dimka/videos
+
+2006-11-06 @3dimka - 3D Chess Stereogram https://youtu.be/wdSYM3-3XFE
+
+2006-11-06 @3dimka - 3D Staircase Stereogram https://youtu.be/RSqN2QhA4t8
+
+2007-11-25 @3dimka - Animated Stereogram https://youtu.be/3Ea73c0Wq9w \
+= https://www.hidden-3d.com/index.php?id=ani_gallery&pk=97 flash required
+
+2009-04-12 @ThePhantomChick - The Snowman: A Stereogram Animation https://youtu.be/ArWY-Ck-CPc
+
+2010-05-10 @3dimka - Gears, Animated Stereogram with hidden 3D picture. https://youtu.be/8hd1ecZsibw
+
+2013-08-26 @3dimka - 3D-Pink Animated Magic Eye Stereogram (SIRDS) https://youtu.be/-dF5UXcXw70
+
+2017-07-11 @Roma N - Animated stereogram https://youtu.be/IZpsbQMQFBs
 
 ---
 ---
