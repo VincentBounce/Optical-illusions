@@ -10,7 +10,7 @@
 
 # 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
 
-## Stereogram Tutorial
+## Tutorials
 
 https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
 
@@ -18,16 +18,32 @@ https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
 
 https://en.wikipedia.org/wiki/Magic_Eye
 
-https://www.magiceye.com/
+https://www.magiceye.com/ \
+https://www.magiceye.com/client-samples/ \
+https://www.magiceye.com/stock-images/
+
+## Eyetricks 3D Stereograms | all | original size
+
+https://www.facebook.com/Eyetricks3DStereograms/photos
+https://www.eyetricks-3d-stereograms.com/kinds_of_stereograms.html kinds of stereograms
+
+> https://www.facebook.com/photo/?fbid=4554617687966255&set=pb.100035369420325.-2207520000.
+https://www.facebook.com/photo/?fbid=4699611533466869&set=pb.100035369420325.-2207520000.
 
 ## 3Dimka = @3dstereogram
 
-https://www.instagram.com/3dstereogram/ 1080x810 upscaled
+https://hidden-3d.com/index.php?id=gallery open image in new tab to DL | images 1024x768 original 💚 \
+= https://www.deviantart.com/3dimka/gallery images identical to https://hidden-3d.com \
+= https://www.instagram.com/3dstereogram/ upscaled images 1080x810
 
-## Kinds of Stereograms
+## Gene Levine
 
-https://www.eyetricks-3d-stereograms.com/kinds_of_stereograms.html
+http://www.colorstereo.com/main-directory.html original size with ads \
+https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads
 
+## Misc links
+
+http://www.colorstereo.com/links.ss/links.htm
 
 ---
 ---
