@@ -14,20 +14,16 @@
 ---
 ---
 
-# 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🎮Games
+# 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🎮Video games
 
 SIRDS = single-image random dot stereogram
 
-## Misc games
-
-**https://hidden-3d.com/stereogram_games.php**
-
-## Magic Eye Tetris | playable
+## Magic Eye Tetris
 
 **🎮 `2004-08-28` https://www.lutanho.net/play/magiceyetetris.html** 💚 \
-= https://www.lutanho.net/play/magiceyetetris5.html variant \
+= https://www.lutanho.net/play/magiceyetetris5.html variant
 
-> `2004-08-28` https://web.archive.org/web/20050117084056/http://www.gamedev.net:80/community/forums/topic.asp?topic_id=267042 = https://www.gamedev.net/forums/topic.asp?topic_id=267042
+> `2004-08-28` https://web.archive.org/web/20050117084056/http://www.gamedev.net:80/community/forums/topic.asp?topic_id=267042 = https://www.gamedev.net/forums/topic.asp?topic_id=267042 \
 `2004-11-12` https://web.archive.org/web/20041112105159/http://home.t-online.de/home/lutz.tautenhahn/mageye/index.html
 
 **🎮 `2008-05-01` https://www.hidden-3d.com/games_stereogram_tetris.php** flash emulator required
@@ -44,6 +40,10 @@ by https://github.com/wisehackermonkey MX
 
 **🎮 `2018-06-15` https://blogum.itch.io/omdo** 💚 \
 Windows OK | macOS only 2018 Intel versions
+
+## Misc games
+
+**https://hidden-3d.com/stereogram_games.php**
 
 ---
 ---
