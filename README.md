@@ -43,9 +43,9 @@ https://www.reddit.com/r/Chromostereopsis/
 
 ## `ancient Greece` Coffer illusion
 
-**https://en.wiktionary.org/wiki/coffer_illusion**
+**https://en.wiktionary.org/wiki/coffer_illusion** \
 \
-2020-07-07 https://www.popularmechanics.com/science/a33224851/how-many-circles-viral-coffer-illusion/
+2020-07-07 https://www.popularmechanics.com/science/a33224851/how-many-circles-viral-coffer-illusion/ \
 2024-11-11 https://www.reddit.com/r/illusionporn/comments/1gomqxi/animated_coffer_illusion/
 
 ## `1415` https://en.wikipedia.org/wiki/Perspective%5f(graphical) 💚
