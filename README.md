@@ -8,6 +8,47 @@
 ---
 ---
 
+# 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
+
+---
+---
+---
+
+# 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🎮Games
+
+SIRDS = single-image random dot stereogram
+
+## Misc games
+
+**https://hidden-3d.com/stereogram_games.php**
+
+## Magic Eye Tetris | playable
+
+**🎮 `2004-08-28` https://www.lutanho.net/play/magiceyetetris.html** 💚 \
+= https://www.lutanho.net/play/magiceyetetris5.html variant \
+
+> `2004-08-28` https://web.archive.org/web/20050117084056/http://www.gamedev.net:80/community/forums/topic.asp?topic_id=267042 = https://www.gamedev.net/forums/topic.asp?topic_id=267042
+`2004-11-12` https://web.archive.org/web/20041112105159/http://home.t-online.de/home/lutz.tautenhahn/mageye/index.html
+
+**🎮 `2008-05-01` https://www.hidden-3d.com/games_stereogram_tetris.php** flash emulator required
+
+**🎮 `2020-07-02` https://wisehackermonkey.github.io/magic-eye-tetris/** \
+= https://github.com/wisehackermonkey/magic-eye-tetris \
+by https://github.com/wisehackermonkey MX
+
+## Quake II AbSIRD
+
+**🎮 `2006-02-02` https://lewcid.com/lg/download/SIRD/q2/index.html** \
+
+## OMDO | DOOM remake
+
+**🎮 `2018-06-15` https://blogum.itch.io/omdo** 💚 \
+Windows OK | macOS only 2018 Intel versions
+
+---
+---
+---
+
 # 🌀Optical illusions > ℹ️Info
 
 ## Sites 💚
@@ -34,24 +75,6 @@ https://www.reddit.com/r/Chromostereopsis/
 
 2009-02 https://x.com/yurrey_p
 2011-12 https://x.com/AkiyoshiKitaoka
-
----
----
----
-
-# 👀[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
-
-## Magic Eye Tetris | playable
-
-**🎮 `2004-08-28` https://www.lutanho.net/play/magiceyetetris.html** 💚 \
-= https://www.lutanho.net/play/magiceyetetris5.html variant \
-
-> `2004-08-28` https://web.archive.org/web/20050117084056/http://www.gamedev.net:80/community/forums/topic.asp?topic_id=267042
-`2004-11-12` https://web.archive.org/web/20041112105159/http://home.t-online.de/home/lutz.tautenhahn/mageye/index.html
-
-**🎮 `2020-07-02` https://wisehackermonkey.github.io/magic-eye-tetris/** \
-= https://github.com/wisehackermonkey/magic-eye-tetris \
-by https://github.com/wisehackermonkey MX
 
 ---
 ---
@@ -157,6 +180,8 @@ https://fr.wikipedia.org/wiki/La_Robe_(photo)#/media/Fichier:Wikipe-tan_wearing_
 = `2025-09-28` https://x.com/Sarahhuniverse/status/1972322157628973530
 
 Fashion is full of optical illusions
+
+## https://optical.toys/reverse-phi-effect/
 
 ---
 ---
@@ -406,6 +431,12 @@ https://www.kssgalerie.net/impossible-architecture-23
 https://im-possible.info/english/art/escher/waterfall.html
 https://im-possible.info/english/art/rendered_escher/led_waterfall.html
 2016-03-25 https://www.behance.net/gallery/35404291/Graduation-works-_My-name-is-Escher
+
+---
+---
+---
+
+# 👓🔵🔴[Anaglyph 3D](https://en.wikipedia.org/wiki/Anaglyph_3D)
 
 ---
 ---
