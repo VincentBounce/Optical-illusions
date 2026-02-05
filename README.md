@@ -1,13 +1,38 @@
 # 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
 
-## Tutorials
+## 🎓Tutorials
 
 https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
 
-## Definitions
+2020-08-31 @Dean Odell Magician & Mind Reader - How to view Magic Eye Images https://youtu.be/OdWNYdk-vWY?t=73
+
+2016-10-21 @Vox - Magic Eye: The optical illusion, explained https://youtu.be/v8O8Em_RPNg?t=288 💚
+
+## ℹ️Definitions
 
 - Divergent: default, most used
-- Convergent = cross-view: image appears in front of you, you can touch it, you can frame it with your hands🫶.
+- Convergent = cross-view: image appears in front of you, you can touch it, you can frame it with your hands🫶
+
+## ✏️To create stereograms
+
+**Magic-Eye-Generator**
+2024-02-10 https://github.com/anastaci1a/Magic-Eye-Generator \
+2024-02-10 https://www.reddit.com/r/autostereograms/comments/1anaxrg/i_made_a_magic_eye_autostereogram_generator_on/
+
+**Magic Eye 3D** zzz🪦DEAD
+~~https://web.archive.org/web/20201112011806/https://apps.apple.com/us/app/magic-eye-3d/id1420341382~~
+
+---
+---
+---
+
+# 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏞️Images
+
+## Misc
+
+http://www.colorstereo.com/links.ss/links.htm
+
+**2012-05-10 https://www.reddit.com/r/autostereograms/** 💚
 
 ## Magic Eye
 
@@ -20,6 +45,7 @@ https://www.magiceye.com/stock-images/
 ## Eyetricks 3D Stereograms 💚 all | original size
 
 https://www.facebook.com/Eyetricks3DStereograms/photos
+
 https://www.eyetricks-3d-stereograms.com/kinds_of_stereograms.html kinds of stereograms
 
 > https://www.facebook.com/photo/?fbid=4554617687966255&set=pb.100035369420325.-2207520000.
@@ -35,10 +61,6 @@ https://hidden-3d.com/index.php?id=gallery open image in new tab to DL | images 
 
 http://www.colorstereo.com/main-directory.html original size with ads \
 https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads
-
-## Misc links
-
-http://www.colorstereo.com/links.ss/links.htm
 
 ## Compilations 💚 divergent
 
