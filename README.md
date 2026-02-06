@@ -1,4 +1,4 @@
-# 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
+# 🧊3D > 💠[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
 
 ## 🎓Tutorials
 
@@ -28,7 +28,7 @@ http://www.softsource.com/tutorial.html
 ---
 ---
 
-# 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏞️Images
+# 🧊3D > 💠[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏞️Images
 
 ## Reddit
 
@@ -97,7 +97,7 @@ http://www.colorstereo.com/links.ss/links.htm
 ---
 ---
 
-# 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏃‍♂️Animations
+# 🧊3D > 💠[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏃‍♂️Animations
 
 2006-11-06 @3dimka - 3D Chess Stereogram https://youtu.be/wdSYM3-3XFE
 
@@ -118,7 +118,7 @@ http://www.colorstereo.com/links.ss/links.htm
 ---
 ---
 
-# 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🎮Video games
+# 🧊3D > 💠[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🎮Video games
 
 ## SIRDS = single-image random dot stereogram
 
@@ -197,13 +197,6 @@ https://www.reddit.com/r/Chromostereopsis/
 
 https://en.wikipedia.org/wiki/Filippo_Brunelleschi#Linear_perspective \
 `1435` https://en.wikipedia.org/wiki/De_pictura
-
-## `18xx` [Chromostereopsis = chromostereopic illusion](https://en.wikipedia.org/wiki/Chromostereopsis)
-
-> depth is conveyed in two-dimensional color images, usually of red–blue or red–green colors
-The majority of people see red in front of blue, while 10-20% see blue in front of red.
-
-`2024-11-23` https://www.behance.net/gallery/213143171/Chromostereopsis
 
 ## `1823` [Moiré pattern](https://en.wikipedia.org/wiki/Moiré_pattern) 💚
 
@@ -478,7 +471,7 @@ https://fr.wikipedia.org/wiki/Ambigramme#/media/Fichier:Tessellation_Pipi_Caca_-
 ---
 ---
 
-# 💠3D
+# 🧊3D
 
 ## 👓🖥️[Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy)
 
@@ -506,13 +499,20 @@ https://www.amazon.in/Sharp-LCD-Monitor-25MS-LL1513D/dp/B0002YY7J4
 
 ## 👓🔵🔴[Anaglyph 3D](https://en.wikipedia.org/wiki/Anaglyph_3D)
 
+## 🟦🟥[Chromostereopsis = chromostereopic illusion](https://en.wikipedia.org/wiki/Chromostereopsis)
+
+> depth is conveyed in two-dimensional color images, usually of red–blue or red–green colors
+The majority of people see red in front of blue, while 10-20% see blue in front of red.
+
+`2024-11-23` https://www.behance.net/gallery/213143171/Chromostereopsis
+
 ## 🪩Mirascope
 
 **1970 https://fr.wikipedia.org/wiki/Mirascope**
 
 2015 https://www.amazon.com/Toysmith-79747-3-D-Mirascope-6-Inch/dp/B000N5T8KA
 
-## 💠Holography = 3D holograms
+## 💎Holography = 3D holograms
 
 **1948 https://en.wikipedia.org/wiki/Holography**
 
@@ -537,14 +537,14 @@ Not mainstream, not famous, not rich but very happy https://en.wikipedia.org/wik
 
 ## 🧊3D on smartphone screen with eye tracking 💚 parallax | alike Amazon Fire smartphone
 
-**TheParallaxView** | not https://en.wikipedia.org/wiki/The_Parallax_View
-2018-03-05 https://apps.apple.com/us/app/theparallaxview/id1352818700 2019-10-05 v1.6
+**TheParallaxView** | not https://en.wikipedia.org/wiki/The_Parallax_View \
+2018-03-05 https://apps.apple.com/us/app/theparallaxview/id1352818700 2019-10-05 v1.6 \
 https://github.com/algomystic/TheParallaxView/releases
 
-**oa-proj-cannon-lol**
-2020-08-06 https://loupc.csb.app/dashboard
-2020-08-06 https://x.com/mlperego/status/1291432788420370433
-https://codesandbox.io/p/sandbox/loupc
+**oa-proj-cannon-lol** \
+2020-08-06 https://loupc.csb.app/dashboard \
+2020-08-06 https://x.com/mlperego/status/1291432788420370433 \
+https://codesandbox.io/p/sandbox/loupc \
 by https://github.com/emmelleppi `mlp.perego@gmail.com` 2012-03 https://x.com/mlperego
 
 ---
