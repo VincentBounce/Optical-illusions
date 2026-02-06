@@ -57,7 +57,7 @@ https://www.facebook.com/photo/?fbid=4699611533466869&set=pb.100035369420325.-22
 > 👤Brad Honeycutt `brad@bradhoneycutt.com` \
 👤Gary W. Priester
 
-## 3Dimka = @3dstereogram
+## 3Dimka
 
 **https://hidden-3d.com/index.php?id=gallery open image in new tab to DL | images 1024x768 original 💚 \
 = https://www.deviantart.com/3dimka/gallery images identical to https://hidden-3d.com \
@@ -387,7 +387,7 @@ R90 = quarter-turn ambigram
 mirror = reflection
 
 ## R180 | 69 | 🆘 | ᗱƆᑌᑎϹᗴ
-
+```
 https://en.wikipedia.org/wiki/Ambigram#/media/File:SOS_Italian_traffic_signs_in_2020.05.jpg natural
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigramme_Merci_-_animation.gif
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_Yeah_tessellation_-_animation.gif
@@ -399,9 +399,10 @@ https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_Bounce,_Adidas_pink_
 https://commons.wikimedia.org/wiki/File:Ambigram_Escher_-_black_animated.gif
 https://commons.wikimedia.org/wiki/File:Ambigram_Escher_with_reversible_drawing_hands_-_photomontage.jpg
 https://fr.wikipedia.org/wiki/Ambigramme#/media/Fichier:Ambigramme_logo_TGV_InOui_SNCF.jpg
+```
 
 ## R180 2 versions
-
+```
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_-_puzzle_-_the_end_-_by_Peter_Newell_1893_-_book_Topsys_and_turvys_(crop).jpg
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_Real_Fake_animated_(1).gif
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_station_toilets_-_animated.gif
@@ -409,59 +410,68 @@ https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_tattoo_New_York_Rich
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_tattoo_Texas_Sexy.jpg
 https://fr.wikipedia.org/wiki/Image_ambig%C3%BCe#/media/Fichier:Tatouage_ambigramme_Amour_Haine.jpg
 https://fr.wikipedia.org/wiki/Ambigramme#/media/Fichier:Ambigramme_Vision_du_voisin.png
+```
 
 ## R90 R180 | SUN logo
 
 https://en.wikipedia.org/wiki/Ambigram#/media/File:SUN_microsystems_logo_ambigram.png
 
 ## R90 | `OHIO`
-
+```
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_OHIO_(90_degrees_rotational_symmetry_-_animated).gif natural
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_Wrong!_Ignore_(90_degrees_rotational_symmetry_-_animated).gif
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigramm_Jude_Muslim_(black_and_red_-_animated).gif
+```
 
 ## Horizontal axis mirror
-
+```
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_true_flag.png
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram-8-eight-math-2-1-5-rotation-mirror-basile-morin.gif H V R
+```
 
 ## Horizontal axis mirror 2 versions
-
+```
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_Motel_Water.png
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigramme_Lapin_Rabbit.png
 https://fr.wikipedia.org/wiki/Ambigramme#/media/Fichier:Ambigramme_Stage_Etude.png
+```
 
 ## Vertical axis mirror | ANИA
-
+```
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Anna_(2019)_Logo.svg
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_I_love_you.png
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_Perfect.png
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_Nothing_written.jpg
 https://fr.wikipedia.org/wiki/Ambigramme#/media/Fichier:AvivaCanadaMarkhamHeadquarters5.jpg
 https://fr.wikipedia.org/wiki/Ambigramme#/media/Fichier:Ambigram_Jewel_(coffee)_mirror_logo_in_Singapore.jpg
+```
 
 ## Vertical axis mirror 2 versions
-
+```
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_Magic_Dream_-_mirror_symmetry_with_a_handheld_pattern_giving_a_reversed_shadow_on_a_blue_wall.jpg
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_Cognac_Danger_on_a_set_of_two_shot_glasses_(empty_and_full).jpg
+```
 
 ## Figure-ground ambigram | negative space formed by the letters
-
+```
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Tessellation_ambigramme_Michel_Onfray_-_figure-fond.png
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_tessellation_Liar_Jail_-_figure-ground.png
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigram_Future_tessellation.png | R180 as well
+```
 
 ## Chain ambigram
-
+```
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigramme_Nouvel_an_-_chaine.png
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Chain_ambigram_Michel_Onfray.png
+```
 
 ## Misc
-
+```
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Godel_escher_bach_abmigram.png 3D
 https://en.wikipedia.org/wiki/Ambigram#/media/File:3d-ambigram.jpg 3D
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigramme_OUI_NON_sculpture_anamorphosique_de_Markus_Raetz_2002.jpg
 https://fr.wikipedia.org/wiki/Ambigramme#/media/Fichier:Tessellation_Pipi_Caca_-_ambigramme_de_perception_figure-fond.jpg
+```
 
 ---
 ---
@@ -469,9 +479,9 @@ https://fr.wikipedia.org/wiki/Ambigramme#/media/Fichier:Tessellation_Pipi_Caca_-
 
 # 💠3D
 
-## 👓Stereoscopy
+## 👓🖥️[Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy)
 
-`1838-xx-xx` https://en.wikipedia.org/wiki/Stereoscopy earliest https://en.wikipedia.org/wiki/Active_shutter_3D_system
+`1838-xx-xx` https://en.wikipedia.org/wiki/Active_shutter_3D_system
 
 > by https://en.wikipedia.org/wiki/Charles_Wheatstone
 
@@ -493,13 +503,15 @@ https://www.amazon.in/Sharp-LCD-Monitor-25MS-LL1513D/dp/B0002YY7J4
 `2024-01-08` @Digital Trends - Samsung Has a 3D Gaming Monitor That Doesn’t Need Glasses, CES 2024 https://youtu.be/CX_YV5Xn7Fs
 `2024-08-21` https://www.phonandroid.com/samsung-devoile-le-premier-ecran-3d-sans-lunettes-au-monde-mais-il-ne-fera-plaisir-quaux-egoistes.html
 
+## 👓🔵🔴[Anaglyph 3D](https://en.wikipedia.org/wiki/Anaglyph_3D)
+
 ## 🪩Mirascope
 
 **1970 https://fr.wikipedia.org/wiki/Mirascope**
 
 2015 https://www.amazon.com/Toysmith-79747-3-D-Mirascope-6-Inch/dp/B000N5T8KA
 
-## 💠Holography | 3D holograms
+## 💠Holography = 3D holograms
 
 **1948 https://en.wikipedia.org/wiki/Holography**
 
@@ -564,12 +576,6 @@ https://www.kssgalerie.net/impossible-architecture-23
 https://im-possible.info/english/art/escher/waterfall.html
 https://im-possible.info/english/art/rendered_escher/led_waterfall.html
 2016-03-25 https://www.behance.net/gallery/35404291/Graduation-works-_My-name-is-Escher
-
----
----
----
-
-# 👓🔵🔴[Anaglyph 3D](https://en.wikipedia.org/wiki/Anaglyph_3D)
 
 ---
 ---
