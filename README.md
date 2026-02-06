@@ -4,6 +4,8 @@
 
 https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
 
+http://www.softsource.com/tutorial.html
+
 2020-08-31 @Dean Odell Magician & Mind Reader - How to view Magic Eye Images https://youtu.be/OdWNYdk-vWY?t=73
 
 2016-10-21 @Vox - Magic Eye: The optical illusion, explained https://youtu.be/v8O8Em_RPNg?t=288 💚
@@ -28,9 +30,7 @@ https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
 
 # 🧊[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏞️Images
 
-## Misc
-
-http://www.colorstereo.com/links.ss/links.htm
+## Reddit
 
 **2010-09-18 https://www.reddit.com/r/MagicEye/** 💚
 
@@ -57,7 +57,7 @@ https://www.facebook.com/photo/?fbid=4699611533466869&set=pb.100035369420325.-22
 > 👤Brad Honeycutt `brad@bradhoneycutt.com` \
 👤Gary W. Priester
 
-## 3Dimka
+## 3Dimka's creations
 
 **https://hidden-3d.com/index.php?id=gallery open image in new tab to DL | images 1024x768 original 💚 \
 = https://www.deviantart.com/3dimka/gallery images identical to https://hidden-3d.com \
@@ -68,12 +68,13 @@ https://www.youtube.com/@3dimka/videos**
 👤3Dimka \
 👤Indasoftware
 
-## Gene Levine
+## Gene Levine's creations
 
 **http://www.colorstereo.com/main-directory.html original size with ads \
 https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads**
 
-> 👤https://www.flickr.com/mail/write/?to=87969659@N00 ~~`gene_levine@colorstereo.com` zzz🪦DEAD~~
+> 👤https://www.flickr.com/mail/write/?to=87969659@N00 ~~`gene_levine@colorstereo.com` zzz🪦DEAD~~ \
+http://www.colorstereo.com/links.ss/links.htm
 
 ## Compilations 💚 divergent
 
