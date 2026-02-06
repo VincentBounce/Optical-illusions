@@ -15,11 +15,11 @@ https://www.ime.usp.br/~otuyama/stereogram/basic/index.html by Julio M. Otuyama
 
 ## ✏️To create stereograms
 
-**Magic-Eye-Generator**
+**Magic-Eye-Generator** \
 2024-02-10 https://github.com/anastaci1a/Magic-Eye-Generator \
 2024-02-10 https://www.reddit.com/r/autostereograms/comments/1anaxrg/i_made_a_magic_eye_autostereogram_generator_on/
 
-**Magic Eye 3D** zzz🪦DEAD
+**Magic Eye 3D** zzz🪦DEAD \
 ~~https://web.archive.org/web/20201112011806/https://apps.apple.com/us/app/magic-eye-3d/id1420341382~~
 
 ---
