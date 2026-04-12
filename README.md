@@ -12,8 +12,8 @@ http://www.softsource.com/tutorial.html
 
 ## ℹ️Definitions
 
-- Divergent: default, most used
-- Convergent = cross-view: image appears in front of you, you can touch it, you can frame it with your hands🫶
+- **Divergent** default, most used, the 3D image appears behind the display
+- **Convergent = cross-view** the 3D image appears in front of the display, you can touch it, you can frame it with your hands🫶
 
 ## ✏️To create stereograms
 
