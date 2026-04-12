@@ -93,6 +93,8 @@ http://www.colorstereo.com/links.ss/links.htm
 2024-11-04 https://upload.wikimedia.org/wikipedia/commons/0/0b/Crossed-eye_autostereogram_of_a_cube_rotating.gif \
 = https://commons.wikimedia.org/wiki/File:Crossed-eye_autostereogram_of_a_cube_rotating.gif
 
+2026-04-12 @Chirag Dudhat - Can you cross your eyes? 💚 https://youtu.be/z7bPSCM0jlc
+
 ---
 ---
 ---
