@@ -76,7 +76,7 @@ https://www.flickr.com/photos/87969659@N00/ slightly reduced size without ads**
 > 👤https://www.flickr.com/mail/write/?to=87969659@N00 ~~`gene_levine@colorstereo.com` zzz🪦DEAD~~ \
 http://www.colorstereo.com/links.ss/links.htm
 
-## Compilations 💚 divergent
+## Compilations > Divergent 💚
 
 2017-11-16 @Expat Lady in Saudi - 10 Hidden Images Magic eye Magic Eye Pictures https://youtu.be/hBCwJZABkGs \
 2021-03-23 @Mosaic Creator - 50 amazing 3D Stereograms Magic Eye https://youtu.be/aiQsyyyqtlA \
@@ -86,20 +86,20 @@ http://www.colorstereo.com/links.ss/links.htm
 2022-11-28 @SOMEDIA3D - STEREOGRAMS #1 ( MAGIC EYE PICTURES WITH ANSWERS) WITH HOW TO SEE MAGIC EYE TUTORIAL #magic_eye https://youtu.be/SZNml8hCZfI \
 2024-01-06 @Eyetricks 3D Stereograms - Animal Attraction 🐱, 3D Stereogram Illusions https://youtu.be/lHtybx2xtYw
 
-## Compilations | convergent
+## Compilations > Convergent = cross-view
 
 2023-12-01 @Eyetricks 3D Stereograms - The X-Files, 3D Stereograms For Cross-Eyed Viewing https://youtu.be/ZZaMGy3oDOU
 
 2024-11-04 https://upload.wikimedia.org/wikipedia/commons/0/0b/Crossed-eye_autostereogram_of_a_cube_rotating.gif \
 = https://commons.wikimedia.org/wiki/File:Crossed-eye_autostereogram_of_a_cube_rotating.gif
 
-2026-04-12 @Chirag Dudhat - Can you cross your eyes? 💚 https://youtu.be/z7bPSCM0jlc
-
 ---
 ---
 ---
 
 # 🧊3D > 💠[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏃‍♂️Animations
+
+## Divergent
 
 2006-11-06 @3dimka - 3D Chess Stereogram https://youtu.be/wdSYM3-3XFE
 
@@ -115,6 +115,14 @@ http://www.colorstereo.com/links.ss/links.htm
 2013-08-26 @3dimka - 3D-Pink Animated Magic Eye Stereogram (SIRDS) https://youtu.be/-dF5UXcXw70
 
 2017-07-11 @Roma N - Animated stereogram https://youtu.be/IZpsbQMQFBs
+
+## Convergent = cross-view
+
+2018-01-08 @xyoureyes - 3DW Stereogram Robot Dancing 💚 https://youtu.be/Dl5puCAypuk
+
+2019-08-26 @Roma N - Animated stereogram: eyes training https://youtu.be/ojkNXsxaX7A
+
+2026-04-12 @Chirag Dudhat - Can you cross your eyes? 💚 https://youtu.be/z7bPSCM0jlc
 
 ---
 ---
