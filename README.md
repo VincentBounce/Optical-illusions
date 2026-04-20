@@ -170,10 +170,11 @@ Windows OK | macOS only 2018 Intel versions
 
 # 🧊3D > 🔦3D zoetrope = stroboscope + zoetrope
 
-**1832 https://en.wikipedia.org/wiki/Stroboscope
+**1832 https://en.wikipedia.org/wiki/Stroboscope \
 1833 https://en.wikipedia.org/wiki/Zoetrope**
 
 2022-01-03 @shapiro500 - Collector's Zoetrope https://youtu.be/sAxXUYuL80s?t=6
+
 2023-03-19 @Damien Monteillard - Zoetrope 3D, The Rooster March https://youtu.be/_rQrkaExnt4?t=17
 
 ---
@@ -212,8 +213,11 @@ Windows OK | macOS only 2018 Intel versions
 **1862 & 2013 https://en.wikipedia.org/wiki/Pepper's_ghost**
 
 2015-08-31 Holographic Projector - Heineken Ad https://youtu.be/HHAvaYCaDsg
+
 2015-11-30 3D Hologram Pyramid Unboxing and Review https://youtu.be/c2Y5Px3Y0vo
+
 2016-12-29 https://commons.wikimedia.org/wiki/File:Pyramid_holographic_3D_holographic_projection_phone_projector_3D_holographic_projection_3D_mobile_phone_naked_eye_3D_pyramid.jpg
+
 2024-05-23 https://x.com/mashedAvocado_/status/1793641297393414482
 
 ---
@@ -244,12 +248,12 @@ The majority of people see red in front of blue, while 10-20% see blue in front 
 > by Auguste Berthier \
 by https://en.wikipedia.org/wiki/Frederic_Eugene_Ives
 
-2004-06-18 https://phys.org/news/2004-06-sharp-3d-lcd-stereoscopic.html
-2004-08-09 https://phys.org/news/2004-08-sharp-3d-lcd-technology-desktop.html 💚
-2004-08-12 https://www.theregister.com/2004/08/12/3d_illusion/
-2004-08-16 https://web.archive.org/web/20040816145338/http://store.sharpsystems.com/searchresults.asp?dept_id=18 💚
-https://www.amazon.in/Sharp-LCD-Monitor-25MS-LL1513D/dp/B0002YY7J4
-2010-09-04 @Charbax - Sharp's Parallax Barrier, auto-3D "no glasses needed" https://youtu.be/CpYy-KA4A3c?t=121
+2004-06-18 https://phys.org/news/2004-06-sharp-3d-lcd-stereoscopic.html \
+2004-08-09 https://phys.org/news/2004-08-sharp-3d-lcd-technology-desktop.html 💚 \
+2004-08-12 https://www.theregister.com/2004/08/12/3d_illusion/ \
+2004-08-16 https://web.archive.org/web/20040816145338/http://store.sharpsystems.com/searchresults.asp?dept_id=18 💚 \
+(2026-04) https://www.amazon.in/Sharp-LCD-Monitor-25MS-LL1513D/dp/B0002YY7J4/ \
+2010-09-04 @Charbax - Sharp's Parallax Barrier, auto-3D "no glasses needed" https://youtu.be/CpYy-KA4A3c?t=121 \
 2010-09-06 @Misc Sharp parallax barrier 3D monitor and camera, IFA 2010 raw video https://youtu.be/UDrG-UYlC8E
 
 ## 🃏Lenticular printing/lens | used by 3D TVs
@@ -258,15 +262,17 @@ https://www.amazon.in/Sharp-LCD-Monitor-25MS-LL1513D/dp/B0002YY7J4
 1912 https://en.wikipedia.org/wiki/Lenticular_lens**
 
 2021-05-15 @Unknown Subject - Producing a lenticular image, Lensing tutorial https://youtu.be/38lMTSIXrok
+
 2024-04-13 @more sam beige - how to make a lenticular print https://youtu.be/phl5tvTdB6k
+
 2026-04-19 https://x.com/mujo_kun/status/2045746926533173535
 
 **2010 https://en.wikipedia.org/wiki/3D_television**
 
-2010-10-04 https://www.01net.com/actualites/toshiba-commercialise-la-premiere-television-3d-sans-lunettes-521690.html
-2011-09-14 https://blog.eavs-groupe.com/actualite-de-nos-metiers/le-premier-televiseur-3d-sans-lunette/
-2012-10-09 https://www.bfmtv.com/economie/patrimoine/placements-epargne/le-premier-vrai-televiseur-3d-sans-lunettes-pret-des-aujourd-hui-pour-le-marche-grand-public_AN-201210090327.html
-2024-01-08 @Digital Trends - Samsung Has a 3D Gaming Monitor That Doesn’t Need Glasses, CES 2024 https://youtu.be/CX_YV5Xn7Fs
+2010-10-04 https://www.01net.com/actualites/toshiba-commercialise-la-premiere-television-3d-sans-lunettes-521690.html \
+2011-09-14 https://blog.eavs-groupe.com/actualite-de-nos-metiers/le-premier-televiseur-3d-sans-lunette/ \
+2012-10-09 https://www.bfmtv.com/economie/patrimoine/placements-epargne/le-premier-vrai-televiseur-3d-sans-lunettes-pret-des-aujourd-hui-pour-le-marche-grand-public_AN-201210090327.html \
+2024-01-08 @Digital Trends - Samsung Has a 3D Gaming Monitor That Doesn’t Need Glasses, CES 2024 https://youtu.be/CX_YV5Xn7Fs \
 2024-08-21 https://www.phonandroid.com/samsung-devoile-le-premier-ecran-3d-sans-lunettes-au-monde-mais-il-ne-fera-plaisir-quaux-egoistes.html
 
 ---
@@ -280,14 +286,19 @@ https://www.amazon.in/Sharp-LCD-Monitor-25MS-LL1513D/dp/B0002YY7J4
 ## Swept-volume display | holographic fans = rotating Persistence of Vision display
 
 2020-12-11 @Voxon - Voxatron gaming on Voxon VX1, 4 player Bloot https://youtu.be/_Hf9jDvz7Tg
+
 2025-03-31 @Best Buy Express - 🚀 3D Hologram Display – Futuristic Gadget in Action! 🛸 https://youtu.be/DETga_D08UA
+
 2024-12-11 @Voxon - Voxatron Comes to Life in 3D: Volumetric Hologram on Voxon VX2-XL 💚 https://youtu.be/pIh98bjRhLI
 
 ## Static volume | volumetric cube matrix
 
 2022-05-26 @Option 1 Live - Meet Dragon O, the world’s most advanced volumetric LED display by Led Pulse at PALM Expo https://youtu.be/D-6p47fA5nQ
+
 2024-11-29 @Pixel bar Jack - 3D LED cube Interactive 3D LED Volumetric Display supports Touchdesigner and Madrix https://youtu.be/VClzg7A7z7M
+
 2025-08-11 @Aoshow led - High Resolution Vision P25 V3 Organic 3D Volumetric LED Display https://youtu.be/YI5Brt7LYlo
+
 2025-09-12 @Seekway Innovations - Seekway HD × AI 3D Volumetric LED Display | 3D LED Cube https://youtu.be/Ymwk4pfarxs
 
 ---
@@ -301,6 +312,7 @@ https://www.amazon.in/Sharp-LCD-Monitor-25MS-LL1513D/dp/B0002YY7J4
 > by Hans Weil
 
 2016-06-17 @Techmoan - Hologram Vinyl, Star Wars TFA Soundtrack https://youtu.be/aEbAaL7fPl4
+
 2023-02-20 @Steve Mould - Handmade holograms are really weird https://youtu.be/sv-38lwV6vc
 
 ---
