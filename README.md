@@ -1,4 +1,6 @@
-# 🧊3D > 💠[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram)
+# 🧊3D > 💠Autostereograms = magic eye
+
+**https://en.wikipedia.org/wiki/Autostereogram**
 
 ## 🎓Tutorials
 
@@ -28,7 +30,7 @@ http://www.softsource.com/tutorial.html
 ---
 ---
 
-# 🧊3D > 💠[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏞️Images
+# 🧊3D > 💠Autostereograms = magic eye > 🏞️Images
 
 ## Reddit
 
@@ -97,7 +99,7 @@ http://www.colorstereo.com/links.ss/links.htm
 ---
 ---
 
-# 🧊3D > 💠[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🏃‍♂️Animations
+# 🧊3D > 💠Autostereograms = magic eye > 🏃‍♂️Animations
 
 ## Divergent
 
@@ -128,7 +130,7 @@ http://www.colorstereo.com/links.ss/links.htm
 ---
 ---
 
-# 🧊3D > 💠[Autostereograms = magic eye](https://en.wikipedia.org/wiki/Autostereogram) > 🎮Video games
+# 🧊3D > 💠Autostereograms = magic eye > 🎮Video games
 
 ## SIRDS = single-image random dot stereogram
 
@@ -166,7 +168,223 @@ Windows OK | macOS only 2018 Intel versions
 ---
 ---
 
-# 🌀[Optical illusions](https://en.wikipedia.org/wiki/Optical_illusion) > ℹ️Info
+# 🧊3D > 🔦3D zoetrope = stroboscope + zoetrope
+
+**1832 https://en.wikipedia.org/wiki/Stroboscope
+1833 https://en.wikipedia.org/wiki/Zoetrope**
+
+2022-01-03 @shapiro500 - Collector's Zoetrope https://youtu.be/sAxXUYuL80s?t=6
+2023-03-19 @Damien Monteillard - Zoetrope 3D, The Rooster March https://youtu.be/_rQrkaExnt4?t=17
+
+---
+---
+---
+
+# 🧊3D > 👓🖥️Stereoscopy
+
+**https://en.wikipedia.org/wiki/3D_display**
+**1838 https://en.wikipedia.org/wiki/Stereoscopy**
+
+## 👓🎬Active_shutter 3D system
+
+**1838-xx-xx https://en.wikipedia.org/wiki/Active_shutter_3D_system**
+
+> by https://en.wikipedia.org/wiki/Charles_Wheatstone
+
+## 👓🔵🔴Anaglyph 3D
+
+**1853 https://en.wikipedia.org/wiki/Anaglyph_3D**
+
+2025-12-25 @3DN3D - Anaglyph 3D Video 2025! https://youtu.be/VlLNXhQOVT0
+
+## 👓🕶Polarized 3D system
+
+**1934 https://en.wikipedia.org/wiki/Polarized_3D_system**
+
+> by https://en.wikipedia.org/wiki/Edwin_H._Land
+
+---
+---
+---
+
+# 🧊3D > 🛕Pepper's ghost = holographic pyramid
+
+**1862 & 2013 https://en.wikipedia.org/wiki/Pepper's_ghost**
+
+2015-08-31 Holographic Projector - Heineken Ad https://youtu.be/HHAvaYCaDsg
+2015-11-30 3D Hologram Pyramid Unboxing and Review https://youtu.be/c2Y5Px3Y0vo
+2016-12-29 https://commons.wikimedia.org/wiki/File:Pyramid_holographic_3D_holographic_projection_phone_projector_3D_holographic_projection_3D_mobile_phone_naked_eye_3D_pyramid.jpg
+2024-05-23 https://x.com/mashedAvocado_/status/1793641297393414482
+
+---
+---
+---
+
+# 🧊3D > 🟦🟥Chromostereopsis = chromostereopic illusion
+
+**1885 https://en.wikipedia.org/wiki/Chromostereopsis**
+
+> depth is conveyed in two-dimensional color images, usually of red–blue or red–green colors
+The majority of people see red in front of blue, while 10-20% see blue in front of red.
+
+2024-11-23 https://www.behance.net/gallery/213143171/Chromostereopsis
+
+---
+---
+---
+
+# 🧊3D > 🖥️Stereoscopy > Autostereoscopy = glasses-free 3D = glassesless 3D
+
+**1901-xx-xx https://en.wikipedia.org/wiki/Autostereoscopy**
+
+## 𝍤Parallax barrier | used by Nintendo 3DS
+
+**1896 https://en.wikipedia.org/wiki/Parallax_barrier**
+
+> by Auguste Berthier \
+by https://en.wikipedia.org/wiki/Frederic_Eugene_Ives
+
+2004-06-18 https://phys.org/news/2004-06-sharp-3d-lcd-stereoscopic.html
+2004-08-09 https://phys.org/news/2004-08-sharp-3d-lcd-technology-desktop.html 💚
+2004-08-12 https://www.theregister.com/2004/08/12/3d_illusion/
+2004-08-16 https://web.archive.org/web/20040816145338/http://store.sharpsystems.com/searchresults.asp?dept_id=18 💚
+https://www.amazon.in/Sharp-LCD-Monitor-25MS-LL1513D/dp/B0002YY7J4
+2010-09-04 @Charbax - Sharp's Parallax Barrier, auto-3D "no glasses needed" https://youtu.be/CpYy-KA4A3c?t=121
+2010-09-06 @Misc Sharp parallax barrier 3D monitor and camera, IFA 2010 raw video https://youtu.be/UDrG-UYlC8E
+
+## 🃏Lenticular printing/lens | used by 3D TVs
+
+**1906 https://en.wikipedia.org/wiki/Lenticular_printing
+1912 https://en.wikipedia.org/wiki/Lenticular_lens**
+
+2021-05-15 @Unknown Subject - Producing a lenticular image, Lensing tutorial https://youtu.be/38lMTSIXrok
+2024-04-13 @more sam beige - how to make a lenticular print https://youtu.be/phl5tvTdB6k
+2026-04-19 https://x.com/mujo_kun/status/2045746926533173535
+
+**2010 https://en.wikipedia.org/wiki/3D_television**
+
+2010-10-04 https://www.01net.com/actualites/toshiba-commercialise-la-premiere-television-3d-sans-lunettes-521690.html
+2011-09-14 https://blog.eavs-groupe.com/actualite-de-nos-metiers/le-premier-televiseur-3d-sans-lunette/
+2012-10-09 https://www.bfmtv.com/economie/patrimoine/placements-epargne/le-premier-vrai-televiseur-3d-sans-lunettes-pret-des-aujourd-hui-pour-le-marche-grand-public_AN-201210090327.html
+2024-01-08 @Digital Trends - Samsung Has a 3D Gaming Monitor That Doesn’t Need Glasses, CES 2024 https://youtu.be/CX_YV5Xn7Fs
+2024-08-21 https://www.phonandroid.com/samsung-devoile-le-premier-ecran-3d-sans-lunettes-au-monde-mais-il-ne-fera-plaisir-quaux-egoistes.html
+
+---
+---
+---
+
+# 🧊3D > 𖣘Volumetric LED display
+
+**1912 https://en.wikipedia.org/wiki/Volumetric_display**
+
+## Swept-volume display | holographic fans = rotating Persistence of Vision display
+
+2020-12-11 @Voxon - Voxatron gaming on Voxon VX1, 4 player Bloot https://youtu.be/_Hf9jDvz7Tg
+2025-03-31 @Best Buy Express - 🚀 3D Hologram Display – Futuristic Gadget in Action! 🛸 https://youtu.be/DETga_D08UA
+2024-12-11 @Voxon - Voxatron Comes to Life in 3D: Volumetric Hologram on Voxon VX2-XL 💚 https://youtu.be/pIh98bjRhLI
+
+## Static volume | volumetric cube matrix
+
+2022-05-26 @Option 1 Live - Meet Dragon O, the world’s most advanced volumetric LED display by Led Pulse at PALM Expo https://youtu.be/D-6p47fA5nQ
+2024-11-29 @Pixel bar Jack - 3D LED cube Interactive 3D LED Volumetric Display supports Touchdesigner and Madrix https://youtu.be/VClzg7A7z7M
+2025-08-11 @Aoshow led - High Resolution Vision P25 V3 Organic 3D Volumetric LED Display https://youtu.be/YI5Brt7LYlo
+2025-09-12 @Seekway Innovations - Seekway HD × AI 3D Volumetric LED Display | 3D LED Cube https://youtu.be/Ymwk4pfarxs
+
+---
+---
+---
+
+# 🧊3D > ⚫Specular hologram = abrasion hologram
+
+**1934 https://en.wikipedia.org/wiki/Specular_holography**
+
+> by Hans Weil
+
+2016-06-17 @Techmoan - Hologram Vinyl, Star Wars TFA Soundtrack https://youtu.be/aEbAaL7fPl4
+2023-02-20 @Steve Mould - Handmade holograms are really weird https://youtu.be/sv-38lwV6vc
+
+---
+---
+---
+
+# 🧊3D > 💎🔫Holography = laser holograms 💚
+
+**1947 https://en.wikipedia.org/wiki/Holographic_display
+1948 https://en.wikipedia.org/wiki/Holography**
+
+2015-09-15 @Physics Girl - How 3D holograms work https://youtu.be/0ics3RVSn9w
+
+2016-02-03 @Great Big Story - The Laser-Based Science Behind 3D Holograms https://youtu.be/FTKp9aGhhMc
+
+> Holograms are made by bouncing a laser light off of 3D object and onto special film
+Not mainstream, not famous, not rich but very happy https://en.wikipedia.org/wiki/Jason_Sapan aka Dr. Laser
+
+2010-08-07 @EEVblog - EEVblog #103, World's Largest Laser Hologram with Dr Phil https://youtu.be/RrGR-f1VNHI
+
+2020-11-19 @The Thought Emporium - Making Real Holograms! https://youtu.be/aTB2ryoWIFU
+
+2024-10-05 @3Blue1Brown - How are holograms possible? 💚 https://youtu.be/EmKQsSDlaa4
+
+> = 2024-10-05 @3Blue1Brown - Holograms are wild (full video linked above) https://youtu.be/DnjATyPuFFk
+
+2026-04-18 https://x.com/interesting_aIl/status/2045631489736356009
+
+---
+---
+---
+
+# 🧊3D > 🪩Mirascope
+
+**1970 https://fr.wikipedia.org/wiki/Mirascope**
+
+2015-xx-xx https://www.amazon.com/Toysmith-79747-3-D-Mirascope-6-Inch/dp/B000N5T8KA/
+
+---
+---
+---
+
+# 🧊3D > 💳OVD = Optically Variable Device > DOVID = diffractive optically variable image device | used by banking cards, bank notes, passports
+
+**1984**
+
+2013-06-01 https://platform.keesingtechnologies.com/innovation-drives-hologram-document-protection/
+
+## KINEGRAM
+
+https://www.kinegram.com/
+
+---
+---
+---
+
+# 🧊3D > 📱3D on smartphone screen with eye tracking 💚 parallax | used by Amazon Fire smartphone
+
+## TheParallaxView | not https://en.wikipedia.org/wiki/The_Parallax_View
+
+**2018-03-05 https://apps.apple.com/us/app/theparallaxview/id1352818700 2019-10-05 v1.6 latest**
+
+2018-03-05 https://github.com/algomystic/TheParallaxView/releases/tag/v1.0 \
+2019-02-19 https://github.com/algomystic/TheParallaxView/releases/tag/1.5 \
+https://github.com/algomystic/TheParallaxView/releases
+
+> by https://github.com/algomystic SE}Stockholm https://www.anxious-bored.com/
+
+## oa-proj-cannon-lol
+
+**2020-08-06 https://x.com/mlperego/status/1291432788420370433**
+
+2020-08-06 https://loupc.csb.app/dashboard \
+https://codesandbox.io/p/sandbox/loupc
+
+> by https://github.com/emmelleppi `mlp.perego@gmail.com` 2012-03 https://x.com/mlperego
+
+---
+---
+---
+
+# 🌀Optical illusions > ℹ️Info
+
+**https://en.wikipedia.org/wiki/Optical_illusion**
 
 ## Sites 💚
 
@@ -476,86 +694,6 @@ https://en.wikipedia.org/wiki/Ambigram#/media/File:3d-ambigram.jpg 3D
 https://en.wikipedia.org/wiki/Ambigram#/media/File:Ambigramme_OUI_NON_sculpture_anamorphosique_de_Markus_Raetz_2002.jpg
 https://fr.wikipedia.org/wiki/Ambigramme#/media/Fichier:Tessellation_Pipi_Caca_-_ambigramme_de_perception_figure-fond.jpg
 ```
-
----
----
----
-
-# 🧊3D
-
-## 👓🖥️[Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy)
-
-`1838-xx-xx` https://en.wikipedia.org/wiki/Active_shutter_3D_system
-
-> by https://en.wikipedia.org/wiki/Charles_Wheatstone
-
-**`1901-xx-xx` https://en.wikipedia.org/wiki/Autostereoscopy** | TV without glasses
-
-> https://en.wikipedia.org/wiki/Parallax_barrier
-
-`2004-06-18` https://phys.org/news/2004-06-sharp-3d-lcd-stereoscopic.html
-`2004-08-09` https://phys.org/news/2004-08-sharp-3d-lcd-technology-desktop.html 💚
-`2004-08-12` https://www.theregister.com/2004/08/12/3d_illusion/
-`2004-08-16` https://web.archive.org/web/20040816145338/http://store.sharpsystems.com/searchresults.asp?dept_id=18 💚
-https://www.amazon.in/Sharp-LCD-Monitor-25MS-LL1513D/dp/B0002YY7J4
-`2010-09-04` @Charbax - Sharp's Parallax Barrier, auto-3D "no glasses needed" https://youtu.be/CpYy-KA4A3c?t=121
-`2010-09-06` @Misc Sharp parallax barrier 3D monitor and camera, IFA 2010 raw video https://youtu.be/UDrG-UYlC8E
-
-`2010-10-04` https://www.01net.com/actualites/toshiba-commercialise-la-premiere-television-3d-sans-lunettes-521690.html
-`2011-09-14` https://blog.eavs-groupe.com/actualite-de-nos-metiers/le-premier-televiseur-3d-sans-lunette/
-`2012-10-09` https://www.bfmtv.com/economie/patrimoine/placements-epargne/le-premier-vrai-televiseur-3d-sans-lunettes-pret-des-aujourd-hui-pour-le-marche-grand-public_AN-201210090327.html
-`2024-01-08` @Digital Trends - Samsung Has a 3D Gaming Monitor That Doesn’t Need Glasses, CES 2024 https://youtu.be/CX_YV5Xn7Fs
-`2024-08-21` https://www.phonandroid.com/samsung-devoile-le-premier-ecran-3d-sans-lunettes-au-monde-mais-il-ne-fera-plaisir-quaux-egoistes.html
-
-## 👓🔵🔴[Anaglyph 3D](https://en.wikipedia.org/wiki/Anaglyph_3D)
-
-## 🟦🟥[Chromostereopsis = chromostereopic illusion](https://en.wikipedia.org/wiki/Chromostereopsis)
-
-> depth is conveyed in two-dimensional color images, usually of red–blue or red–green colors
-The majority of people see red in front of blue, while 10-20% see blue in front of red.
-
-`2024-11-23` https://www.behance.net/gallery/213143171/Chromostereopsis
-
-## 🪩Mirascope
-
-**1970 https://fr.wikipedia.org/wiki/Mirascope**
-
-2015 https://www.amazon.com/Toysmith-79747-3-D-Mirascope-6-Inch/dp/B000N5T8KA
-
-## 💎Holography = 3D holograms
-
-**1948 https://en.wikipedia.org/wiki/Holography**
-
-2015-09-15 @Physics Girl - How 3D holograms work https://youtu.be/0ics3RVSn9w
-
-2016-02-03 @Great Big Story - The Laser-Based Science Behind 3D Holograms https://youtu.be/FTKp9aGhhMc
-
-> Holograms are made by bouncing a laser light off of 3D object and onto special film
-Not mainstream, not famous, not rich but very happy https://en.wikipedia.org/wiki/Jason_Sapan aka Dr. Laser
-
-2024-10-05 @3Blue1Brown - How are holograms possible? https://youtu.be/EmKQsSDlaa4
-
-## 🛕Holographic pyramid
-
-2015-08-31 Holographic Projector - Heineken Ad https://youtu.be/HHAvaYCaDsg
-2015-11-30 3D Hologram Pyramid Unboxing and Review https://youtu.be/c2Y5Px3Y0vo
-2024-05-23 https://x.com/mashedAvocado_/status/1793641297393414482
-
-## 🔦Stroboscope
-
-**1832 https://en.wikipedia.org/wiki/Stroboscope**
-
-## 🧊3D on smartphone screen with eye tracking 💚 parallax | alike Amazon Fire smartphone
-
-**TheParallaxView** | not https://en.wikipedia.org/wiki/The_Parallax_View \
-2018-03-05 https://apps.apple.com/us/app/theparallaxview/id1352818700 2019-10-05 v1.6 \
-https://github.com/algomystic/TheParallaxView/releases
-
-**oa-proj-cannon-lol** \
-2020-08-06 https://loupc.csb.app/dashboard \
-2020-08-06 https://x.com/mlperego/status/1291432788420370433 \
-https://codesandbox.io/p/sandbox/loupc \
-by https://github.com/emmelleppi `mlp.perego@gmail.com` 2012-03 https://x.com/mlperego
 
 ---
 ---
