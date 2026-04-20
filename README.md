@@ -184,6 +184,7 @@ Windows OK | macOS only 2018 Intel versions
 # 🧊3D > 👓🖥️Stereoscopy
 
 **https://en.wikipedia.org/wiki/3D_display**
+
 **1838 https://en.wikipedia.org/wiki/Stereoscopy**
 
 ## 👓🎬Active_shutter 3D system
@@ -258,7 +259,7 @@ by https://en.wikipedia.org/wiki/Frederic_Eugene_Ives
 
 ## 🃏Lenticular printing/lens | used by 3D TVs
 
-**1906 https://en.wikipedia.org/wiki/Lenticular_printing
+**1906 https://en.wikipedia.org/wiki/Lenticular_printing \
 1912 https://en.wikipedia.org/wiki/Lenticular_lens**
 
 2021-05-15 @Unknown Subject - Producing a lenticular image, Lensing tutorial https://youtu.be/38lMTSIXrok
@@ -321,7 +322,7 @@ by https://en.wikipedia.org/wiki/Frederic_Eugene_Ives
 
 # 🧊3D > 💎🔫Holography = laser holograms 💚
 
-**1947 https://en.wikipedia.org/wiki/Holographic_display
+**1947 https://en.wikipedia.org/wiki/Holographic_display \
 1948 https://en.wikipedia.org/wiki/Holography**
 
 2015-09-15 @Physics Girl - How 3D holograms work https://youtu.be/0ics3RVSn9w
